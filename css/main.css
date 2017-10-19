@@ -1,0 +1,21 @@
+/*Llamo a las clases TableOrange para asignarle color de fondo anaranjado, modo bloque
+altura, margen y el relleno entre el contenido y el borde*/ 
+.TableOrange {
+    background-color: #F5B532;
+    display: block;
+    height: 1px;
+    margin: 10px;
+    padding: 1em 1em 10em;
+    
+}
+/*La clase TableBlack es asignado con las mismas propiedades anteriores pero
+el color de fondo es ahora negro y color de letra blanco*/
+.TableBlack {
+    background-color: black;
+    display: block;
+    height: 1px;
+    margin: 10px;
+    padding: 1em 1em 10em;
+    color: white;
+    
+}
